@@ -12,7 +12,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string fileName = @"C:\Temp\HES.txt";
-            //add a comment
+            //modify a comment
             try
             {
                 // Check if file already exists. If yes, delete it.     
