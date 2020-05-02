@@ -11,7 +11,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //string fileName = @"C:\Temp\HES.txt";
+            string fileName = @"C:\Temp\HES.txt";
             //add a comment
             try
             {
