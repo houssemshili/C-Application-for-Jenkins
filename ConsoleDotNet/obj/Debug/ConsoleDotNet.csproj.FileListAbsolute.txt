@@ -1,0 +1,7 @@
+C:\Users\houss\source\repos\ConsoleDotNet\bin\Debug\ConsoleDotNet.exe.config
+C:\Users\houss\source\repos\ConsoleDotNet\bin\Debug\ConsoleDotNet.exe
+C:\Users\houss\source\repos\ConsoleDotNet\bin\Debug\ConsoleDotNet.pdb
+C:\Users\houss\source\repos\ConsoleDotNet\obj\Debug\ConsoleDotNet.csprojAssemblyReference.cache
+C:\Users\houss\source\repos\ConsoleDotNet\obj\Debug\ConsoleDotNet.csproj.CoreCompileInputs.cache
+C:\Users\houss\source\repos\ConsoleDotNet\obj\Debug\ConsoleDotNet.exe
+C:\Users\houss\source\repos\ConsoleDotNet\obj\Debug\ConsoleDotNet.pdb
