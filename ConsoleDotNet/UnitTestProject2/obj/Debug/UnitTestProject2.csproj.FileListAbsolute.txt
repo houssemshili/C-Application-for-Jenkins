@@ -6,3 +6,6 @@ C:\Users\houss\source\repos\ConsoleDotNet\UnitTestProject2\obj\Debug\UnitTestPro
 C:\Users\houss\source\repos\ConsoleDotNet\UnitTestProject2\obj\Debug\UnitTestProject2.dll
 C:\Users\houss\source\repos\ConsoleDotNet\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
 C:\Users\houss\source\repos\ConsoleDotNet\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\houss\source\repos\ConsoleDotNet\UnitTestProject2\bin\Debug\ConsoleDotNet.exe
+C:\Users\houss\source\repos\ConsoleDotNet\UnitTestProject2\bin\Debug\ConsoleDotNet.pdb
+C:\Users\houss\source\repos\ConsoleDotNet\UnitTestProject2\bin\Debug\ConsoleDotNet.exe.config

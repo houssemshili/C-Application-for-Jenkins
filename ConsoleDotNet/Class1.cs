@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleDotNet
 {
-    class Program
+    public class Class1
     {
-        static void Main(string[] args)
+        public bool ReturnBool()
         {
-        }        
+            return false;
+        }
     }
 }

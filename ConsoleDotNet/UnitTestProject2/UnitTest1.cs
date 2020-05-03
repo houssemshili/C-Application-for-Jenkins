@@ -1,4 +1,5 @@
 ﻿using System;
+using ConsoleDotNet;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTestProject2
@@ -9,8 +10,8 @@ namespace UnitTestProject2
         [TestMethod]
         public void TestMethod1()
         {
-            int a = 1, b = 1;
-            Assert.IsTrue(a == b);
+            Class1 instance = new Class1();
+            Assert.IsTrue(instance.ReturnBool());
         }
     }
 }
