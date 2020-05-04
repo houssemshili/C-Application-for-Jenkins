@@ -10,8 +10,6 @@ namespace ConsoleDotNet
     {
         public bool ReturnBool()
         {
-            //comment
-            //comment
             return true;
         }
     }
