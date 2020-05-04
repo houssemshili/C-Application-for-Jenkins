@@ -12,6 +12,8 @@ namespace ConsoleDotNet
         {
             //comment
             //comment
+            //comm
+            //comm
             return true;
         }
     }
