@@ -11,7 +11,7 @@ namespace ConsoleDotNet
         public bool ReturnBool()
         {
             // bla bla
-            return false;
+            return true;
         }
     }
 }
