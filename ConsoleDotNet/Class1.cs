@@ -10,7 +10,6 @@ namespace ConsoleDotNet
     {
         public bool ReturnBool()
         {
-            // bla bla
             return true;
         }
     }
